@@ -19,7 +19,7 @@ public class Cliente {
         this.medicamentoAdquirido = medicamentoAdquirido;
     }
 
-    //getter and setter
+    //getter and setter2
     public String getNumeroCliente() {
         return numeroCliente;
     }
